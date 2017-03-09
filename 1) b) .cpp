@@ -13,14 +13,14 @@ int main ()
     cout << "Hello! " << endl << "What is your name? " << endl;
     cin >> name;
 
-    if (name == "Nijhum")
+    if (name == "Israk")
     {
-        cout << "Hello Nijhum! " << endl;
+        cout << "Hello Isak! " << endl;
     }
 
-    else if (name == "Rabbi")
+    else if (name == "samin")
     {
-        cout << "Hello Rabbi! " << endl;
+        cout << "Hello samin! " << endl;
     }
 
     else
